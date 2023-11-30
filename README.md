@@ -9,7 +9,7 @@
 ```
 FionaNFauna@github
 -------------------------
-💻 Currently Learning C++
+💻 Currently Learning C++ and Java
 📝 Interested in Data Science and Analytics
 🌟 Languages: Python, JavaScript
 ```
