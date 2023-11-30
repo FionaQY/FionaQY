@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Fiona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2280F7&random=false&width=435&lines=Computer+Science+Student;Eager+to+Learn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C300F7&center=true&random=false&width=435&lines=Computer+Science+Student;Always+Eager+to+Learn" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">I am an Undergrad at the National University of Singapore. I like to learn, code and create. Nice to meet you.</h4>
