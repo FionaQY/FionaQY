@@ -7,11 +7,11 @@
 <br>
 
 ```
-FionaNFauna@github
+FionaQY@github
 -------------------------
-💻 Currently Learning C++ and Java
+💻 Currently Learning C++ and Spanish
 📝 Interested in Data Science and Analytics
-🌟 Languages: Python, JavaScript
+🌟 Languages: Python, JavaScript, Java
 ```
 
 
