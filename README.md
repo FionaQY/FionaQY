@@ -9,9 +9,9 @@
 ```
 FionaQY@github
 -------------------------
-💻 Currently Learning C++ and Spanish
+💻 Currently Learning C++ and German
 📝 Interested in Data Science and Analytics
-🌟 Languages: Python, JavaScript, Java
+🌟 Languages: Python, JavaScript, Java, Golang, React
 ```
 
 
